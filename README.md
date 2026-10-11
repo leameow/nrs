@@ -1,7 +1,7 @@
 # NRS
 ## NSIS Reversing Suite
 
-NRS is a set of Python librairies used to unpack and analysis NSIS installer's data. It also feature an IDA plugin used to disassembly the NSIS Script of an installer.
+NRS is a set of Python libraries used to unpack and analysis NSIS installer's data. It also feature an IDA plugin used to disassembly the NSIS Script of an installer.
 
 ![nrs screenshot](http://i.imgur.com/0EQE6gu.png)
 
